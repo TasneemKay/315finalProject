@@ -1,0 +1,106 @@
+{
+	"RestOptions":
+	[
+		{"ResName":"Chipotle", "RestDesc":"Chipotle was born of the radical belief that there is a connection between how food is raised and prepared, and how it tastes. Real is better. Better for You, Better for People, Better for Our Planet. It may be the hard way to do things, but it’s the right way.",
+        "RestGenre":"Tex-Mex",
+        "RestSite":"https://www.chipotle.com/order/", "RestPic":"Chipotle.png"},
+      
+        {"ResName":"ChoongMan Chicken",
+        "RestDesc":"WE DON'T COPY WE ONLY CREATE. ChoongMan Chicken offers a variety of fried chicken flavors. Our chicken is a fusion of Korean and american fried chicken.",
+        "RestGenre":"Korean Fried Chicken",
+        "RestSite":"https://www.cmchicken.us",
+        "RestPic":"ChoongMan.png"},
+       
+        {"ResName":"The Block",
+        "RestDesc":"We were the first foodhall in Northern Virginia, and the first Asian foodhall with 3 locations throughout the DMV. We are Asian-American owned, immigrant owned, and female-owned! THE BLOCK FOODHALL & BAR is proud to be the most beloved foodhall in the DMV that brings Asian-inspired dishes/vendors and craft cocktails unique to each location.",
+        "RestGenre":"Asian Fusion",
+        "RestSite":"https://www.theblockfoodhall.com",
+        "RestPic":"TheBlock.png"},
+        
+        {"ResName":"MC Donalds",
+        "RestDesc":"From adding more balanced options to our Happy Meal®, to serving up fresh beef Quarter Pounder® burgers that are cooked when you order, we’re always finding ways to show our commitment to our customers and our food.",
+        "RestGenre":"Burgers",
+        "RestSite":"https://www.mcdonalds.com/us/en-us/full-menu.html",
+        "RestPic":"McDonalds.png"},
+        
+        {"ResName":"Pizza Hut",
+        "RestDesc":"Principles. Our pizza restaurant was founded on them. Quality ingredients. Service with a smile. Relationships, of all kinds, matter. Also, and this is very important, make every pizza like it was for family. When we started, it probably was. Pizza Hut first opened in 1958 in Wichita, Kansas, when two brothers used $600 borrowed from their mom to open a pizza place. They named it Pizza Hut because the sign had just room for eight letters (so scientific).",
+        "RestGenre":"Pizza",
+        "RestSite":"https://www.pizzahut.com",
+        "RestPic":"PizzaHut.png"},
+       
+        {"ResName":"Noodles & Company",
+        "RestDesc":"We serve fresh, made to order food using the highest-quality ingredients possible without artificial colors, flavors, or preservatives. With a menu that can accommodate almost any dietary lifestyle or preference, we are committed to advanced animal welfare standards, minimizing food waste within the restaurant, and innovating our packaging to reduce waste.",
+        "RestGenre":"Noodles",
+        "RestSite":"https://order.noodles.com",
+        "RestPic":"Noodles.png"},
+        
+        {"ResName":"Texas Roadhouse",
+        "RestDesc":"Legendary means Hand-Cut Steaks, Fall-Off-The-Bone Ribs, Made-From-Scratch Sides, Ice-Cold Beer, and of course, our irresistible Fresh-Baked Bread.",
+        "RestGenre":"American Steak",
+        "RestSite":"https://www.texasroadhouse.com/order",
+        "RestPic":"Texas.png"},
+     
+        {"ResName":"Tropical Smoothie",
+        "RestDesc":"We make eating better easy breezy with fresh, made-to-order smoothies, wraps, sandwiches and flatbreads that instantly boost your mood.",
+        "RestGenre":"Sandwiches",
+        "RestSite":"https://order.tropicalsmoothiecafe.com",
+        "RestPic":"TropicalSmoothie.png"},
+        
+        {"ResName":"Vocelli Pizza",
+        "RestDesc":"Vocelli's Pizza offers a variety of artisan pizzas. We pride ourself on having the best pizza in the U.S!",
+        "RestGenre":"Pizza",
+        "RestSite":"https://weborder.vocellipizza.com",
+        "RestPic":"Vocelli.png"},
+        
+        {"ResName":"Freddy's",
+        "RestDesc":"Enjoying great food without a long wait doesn’t mean your meal has to be cooked before you order it. From steakburgers to sundaes, Freddy’s makes food fresh after you ask for it because that’s the kind of quality you deserve. Take a moment to catch up with friends and family; it’s almost time to eat.",
+        "RestGenre":"Burgers",
+        "RestSite":"https://freddysusa.com",
+        "RestPic":"Freddys.png"},
+        
+        {"ResName":"Chuy's",
+        "RestDesc":"This is an extremely well-trained and well-managed crew — and every one of them feels empowered to do whatever it takes to make a customer happy. You want to add or subtract something from a dish? Change a sauce? Order half an entree? Half an order of queso? If it can be done, your server will do it on the spot, and get it right.",
+        "RestGenre":"Tex-Mex",
+        "RestSite":"https://order.chuys.com",
+        "RestPic":"Chuys.png"},
+       
+        {"ResName":"Panda Express",
+        "RestDesc":"Panda Express is an American fast food restaurant chain that serves American Chinese cuisine. With over 2,200 locations, it is the largest Asian-segment restaurant chain in the United States, where it was founded, and is mainly located in North America and Asia.",
+        "RestGenre":"Chinese cuisine",
+        "RestSite":"https://www.pandaexpress.com",
+        "RestPic":"PandaExpress.png"},
+       
+        {"ResName":"Halal Guys",
+        "RestDesc":"Halal Guys offers halal American food. We have a variety of halal food from Gyros to Baklava.",
+        "RestGenre":"Halal",
+        "RestSite":"https://order.thehalalguys.com",
+        "RestPic":"HalalGuys.png"},
+        
+        {"ResName":"Disctrict Chicken & Gyro",
+        "RestDesc":"NEW YORK STYLE HALAL STREET FOOD BROUGHT TO YOU BY DCG! We offer a variety of halal food from Tandoori chicken to falafel.",
+        "RestGenre":"Halal",
+        "RestSite":"https://tastedcg.com",
+        "RestPic":"DCG.png"},
+       
+        {"ResName":"Panera Bread",
+        "RestDesc":"And we believe that good food, food you can feel good about, can bring out the best in all of us. Food served in a warm, welcoming environment, by people who care. To us, that’s good eating and that’s why we’re here.",
+        "RestGenre":"Comfort food",
+        "RestSite":"https://www.panerabread.com/en-us/home.html?utm_medium=cpc&utm_source=google&utm_campaign=Gold-TestDMA-BR-Exact&utm_content=Gold&utm_term=panera%20bread&ef_id=CjwKCAjwrfCRBhAXEiwAnkmKmXwBgS5MXOJdrm6HBx_yOiTxTtvYWio02fHpcDI_lvRfJssJrpEcsBoCIHcQAvD_BwE%3AG%3As&s_kwcid=AL%2115596%213%21586289749113%21e%21%21g%21%21panera%20bread%2116494803502%21134716996072&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmXwBgS5MXOJdrm6HBx_yOiTxTtvYWio02fHpcDI_lvRfJssJrpEcsBoCIHcQAvD_BwE",
+        "RestPic":"Panera.png"},
+        
+        {"ResName":"Taco Bell",
+        "RestDesc":"Taco Bell is an American-based chain of fast food restaurants originating in Irvine, California in 1962, by founder Glen Bell. Taco Bell is a subsidiary of Yum! ",
+        "RestGenre":"Tex-Mex",
+        "RestSite":"https://www.tacobell.com/locations",
+        "RestPic":"TacoBell.png"},
+      
+        {"ResName":"Qdoba",
+        "RestDesc":"Qdoba Mexican Eats is a chain of fast casual restaurants in the United States and Canada serving Mexican-style cuisine. After spending 15 years as a wholly owned subsidiary of Jack in the Box, the company was sold to a consortium of funds led by Apollo Global Management in March 2018.",
+        "RestGenre":"Tex-Mex",
+        "RestSite":"https://order.qdoba.com",
+        "RestPic":"Qdoba.png"}
+     
+	],
+	"Status":"OK"
+}
